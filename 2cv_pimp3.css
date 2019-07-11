@@ -1,0 +1,38 @@
+
+.liseret
+{
+    float: left;
+    width: 180px;
+    height: 948px;
+    background-image: url(img/knar.jpg)
+}
+/* header */
+header
+{
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+}
+p
+{
+    box-shadow: 5px 7px 9px rgb(16, 6, 70)
+}
+/* element_image */
+.image
+{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+h2
+{
+    text-shadow: 5px 7px 9px rgb(16, 6, 70)
+}
+.section
+{
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: left;
+    margin: auto;
+    font-size: 80%;
+}
